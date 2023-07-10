@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: splunk-packaging-toolkit
+Version: 1.0.1
+Summary: Splunk Packaging Toolkit
+Home-page: https://dev.splunk.com
+Author: Splunk, Inc.
+Author-email: devinfo@splunk.com
+License: https://www.splunk.com/en_us/legal/splunk-software-license-agreement.html
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Other Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: Other/Proprietary License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks

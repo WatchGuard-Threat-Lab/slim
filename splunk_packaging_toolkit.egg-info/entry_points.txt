@@ -1,0 +1,3 @@
+[console_scripts]
+slim = slim.__main__:main
+
