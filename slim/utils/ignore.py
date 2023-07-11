@@ -6,7 +6,7 @@
 from __future__ import absolute_import, division, print_function, unicode_literals
 
 from builtins import object
-from collections.abs import Iterable 
+from collections.abc import Iterable 
 from collections import OrderedDict  # pylint: disable=no-name-in-module
 from os import path
 
